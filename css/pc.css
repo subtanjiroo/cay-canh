@@ -1,0 +1,23 @@
+@media only screen and (min-width: 1200px) {
+
+*{
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.container{
+    width: 1300px !important;
+    height: auto !important;
+}
+.middle{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+}
